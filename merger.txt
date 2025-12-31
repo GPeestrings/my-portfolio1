@@ -1,3 +1,6 @@
 We are experimenting with merge on how it's done
+<<<<<<< HEAD
 
 checking ssh
+=======
+>>>>>>> 81c0ba3757affbb24085600c635c5e0836f4a1ce
